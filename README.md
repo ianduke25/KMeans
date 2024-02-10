@@ -1,6 +1,9 @@
 
 # Exploring K-Means Algorithm
 
+<img width="517" alt="Screenshot 2024-02-10 at 10 43 31 AM" src="https://github.com/ianduke25/KMeans/assets/132767073/3e55e4aa-d738-4c1b-9e22-5939f88b17c7">
+
+
 ## Objective
 This Jupyter notebook is designed as a comprehensive guide for manually implementing the K-Means clustering algorithm. The goal is to demonstrate the fundamentals of K-Means clustering, its implementation, and practical applications such as image compression using a photo of my cute cat, Hummus. The notebook additionally includes clustering visualizations to help users better understand the algorithm and experiments to test the time complexity of the algorithm.
 
