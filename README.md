@@ -1,8 +1,8 @@
 
-# Homework Assignment: Exploring K-Means Algorithm
+# Exploring K-Means Algorithm
 
 ## Objective
-This Jupyter notebook is designed as a comprehensive guide for manually implementing the K-Means clustering algorithm. The goal is to demonstrate fundamentals of K-Means clustering, its implementation, and practical applications such as image compression with my cute cat, Hummus.
+This Jupyter notebook is designed as a comprehensive guide for manually implementing the K-Means clustering algorithm. The goal is to demonstrate the fundamentals of K-Means clustering, its implementation, and practical applications such as image compression with my cute cat, Hummus. It includes clustering visualizations to help users better understand the algorithm and experiments to test the time complexity of the algorithm.
 
 ## Prerequisites
 - Basic understanding of Python programming
@@ -30,5 +30,5 @@ or
 jupyter notebook
 ```
 
-Open `KMeans.ipynb` from the Jupyter interface.
+Open `KMeans.ipynb` from the Jupyter interface. The notebook contains detailed explanations and code for implementing K-Means clustering, along with visualizations to aid in understanding. It also includes a section on experimenting with the algorithm to explore its time complexity, providing valuable insights into its performance.
 
