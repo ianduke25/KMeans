@@ -4,7 +4,7 @@
 <img width="468" alt="Screenshot 2024-02-10 at 10 44 09 AM" src="https://github.com/ianduke25/KMeans/assets/132767073/26fe2b7e-832e-4884-8531-506d50f602a8">
 
 
-<img width="500" alt="Screenshot 2024-02-10 at 10 43 31 AM" src="https://github.com/ianduke25/KMeans/assets/132767073/3e55e4aa-d738-4c1b-9e22-5939f88b17c7">
+<img width="525" alt="Screenshot 2024-02-10 at 10 43 31 AM" src="https://github.com/ianduke25/KMeans/assets/132767073/3e55e4aa-d738-4c1b-9e22-5939f88b17c7">
 
 
 ## Objective
